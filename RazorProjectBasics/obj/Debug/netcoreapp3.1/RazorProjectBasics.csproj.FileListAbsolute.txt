@@ -69,9 +69,12 @@ E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\bin\
 E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\bin\Debug\netcoreapp3.1\RazorProjectBasics.Views.dll
 E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\bin\Debug\netcoreapp3.1\RazorProjectBasics.Views.pdb
 E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\RazorProjectBasics.csproj.CoreCompileInputs.cache
-E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\RazorProjectBasics.MvcApplicationPartsAssemblyInfo.cache
 E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\RazorProjectBasics.Views.pdb
 E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\RazorProjectBasics.dll
 E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\RazorProjectBasics.pdb
 E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\RazorProjectBasics.genruntimeconfig.cache
+E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\Razor\Pages\bookList\Index.cshtml.g.cs
+E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\RazorProjectBasics.csproj.CoreCompileInputs.cache
+E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\RazorProjectBasics.MvcApplicationPartsAssemblyInfo.cache
+E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\Razor\Pages\bookList\Create.cshtml.g.cs
+E:\web-development\Back-End\.Net Core\RazorProjectBasics\RazorProjectBasics\obj\Debug\netcoreapp3.1\Razor\Pages\bookList\Edit.cshtml.g.cs
